@@ -17,5 +17,5 @@
 1. Clone this repository:
    ```bash
    git clone https://github.com/GlitchLinux/password-generator.py.git
-   cd password-generator
+   cd password-generator.py
    python3 password-generator.py
